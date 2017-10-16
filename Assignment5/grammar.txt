@@ -1,0 +1,19 @@
+<sentence>::=    <subject> <intransitiveVerb>    	|	 <subject>    	<transitiveVerb> 	 <object>
+<subject>::=	<name>	|	 <article>   <singleNoun>	|		 <pluralNoun>
+<article>::=	a	|	the
+<name>::=  	Kitty	|	Alice	|	Peter	|	Ken		|	Wang
+<singleNoun>::=guitar  	|	 dog	|	cat	|	school
+<pluralNoun>::=men	|	women	|	people	|	children
+<intransitiveVerb>::=	cried		|	knew	|	laugthed	|died
+<transitiveVerb>::=	played		|	needed	|	bought		|hit	|	liked|	hated
+<object>::=	<name>  |	<article> <singleNoun>  |	<pluralNoun>	|<adjective> <article> <singleNoun>	|<adjective> <pluralNoun>
+<adjective>::=good	|	bad	|beautiful	|	ugly	|	big	|small	|huge	|   	large	|    tiny
+
+
+
+
+
+
+
+
+
